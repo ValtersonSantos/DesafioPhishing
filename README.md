@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do e dados
+# Phishing para captura de senhas e dados
 
 ### Ferramentas
 
